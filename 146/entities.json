@@ -22,5 +22,18 @@
 		"social": {
 			"twitter": "mevcapital"
 		}
+	},
+	"mev-capital": {
+		"name": "Rezerve DAO",
+		"logo": "rezerve.svg",
+		"description": "Rezerve Money is an on-chain MicroStrategy focused on accumulating 5,000 BTC with the power of Community & DeFi.",
+		"url": "https://rezerve.money/",
+		"addresses": {
+			"0x0E43DF9F40Cc6eEd3eC70ea41D6F34329fE75986": "Rezerve Multisig",
+			"0x5f5a6E0F769BBb9232d2F6EDA84790296b288974": "Rezerve Deployer"
+		},
+		"social": {
+			"twitter": "rezervemoney"
+		}
 	}
 }
