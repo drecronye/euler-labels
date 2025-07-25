@@ -168,5 +168,20 @@
 		"name": "MEV Capital PT-stS-18DEC2025",
 		"description": "Component of the MEV Capital Beets Cluster",
 		"entity": "mev-capital"
+	},
+	"0x8c7a2c0729afb927da27d4c9aa172bc5a5fb12bb": {
+		"name": "Rezerve Money RZR",
+		"description": "Component of the Rezerve Money Cluster",
+		"entity": "rezerve-money"
+	},
+	"0x59Ae1EF9fCaFf341140EA01A2e6AA5417591E014": {
+		"name": "Rezerve Money lstRZR",
+		"description": "Component of the Rezerve Money Cluster",
+		"entity": "rezerve-money"
+	},
+	"0x9ccf74e64922d8a48b87aa4200b7c27b2b1d860a": {
+		"name": "Rezerve Money USDC",
+		"description": "USDC supplied to this vault is borrowed to loop into lstRZR and RZR",
+		"entity": "rezerve-money"
 	}
 }
